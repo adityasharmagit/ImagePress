@@ -1,16 +1,44 @@
-# React + Vite
+# PDF Compressor Tool
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and efficient PDF compression tool built with React and Vite. This application allows users to reduce PDF file sizes directly in the browser, making it easier to upload documents to websites with file size restrictions.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Compress PDF files quickly
+* Preview original and compressed file sizes
+* Download the compressed PDF
+* Responsive and clean user interface
+* No server required – processing happens entirely in the browser
+* Deployed for free on Vercel
 
-## React Compiler
+## Built For Digital Heroes
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project was created as part of the **Digital Heroes Custom Software Developer Trial Task**.
 
-## Expanding the ESLint configuration
+The objective of the assessment was to build and deploy a useful online tool using free resources while following all the provided requirements. I chose to create a PDF compression tool because reducing document sizes before uploading them to portals, job applications, and other online services is something I have personally needed multiple times.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+* React
+* Vite
+* Tailwind CSS
+* JavaScript
+* Vercel
+
+## Live Demo
+
+https://your-project.vercel.app
+
+## GitHub Repository
+
+https://github.com/yourusername/yourrepository
+
+## Author
+
+**Your Full Name**
+
+Email: [your-email@example.com](mailto:your-email@example.com)
+
+## License
+
+This project is available for educational and portfolio purposes.
