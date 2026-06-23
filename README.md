@@ -31,13 +31,13 @@ https://your-project.vercel.app
 
 ## GitHub Repository
 
-https://github.com/yourusername/yourrepository
+https://github.com/adityasharmagit/ImagePress
 
 ## Author
 
-**Your Full Name**
+**Aditya Prasad Sharma**
 
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: [your-email@example.com](mailto:your-as0257233@gmail.com)
 
 ## License
 
