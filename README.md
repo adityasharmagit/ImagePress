@@ -37,7 +37,7 @@ https://github.com/adityasharmagit/ImagePress
 
 **Aditya Prasad Sharma**
 
-Email: [your-email@example.com](mailto:your-as0257233@gmail.com)
+Email: [your-as0257233@gmail.com](mailto:your-as0257233@gmail.com)
 
 ## License
 
