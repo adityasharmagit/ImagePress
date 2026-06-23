@@ -1,21 +1,21 @@
-# PDF Compressor Tool
+# ImagePress
 
-A simple and efficient PDF compression tool built with React and Vite. This application allows users to reduce PDF file sizes directly in the browser, making it easier to upload documents to websites with file size restrictions.
+A simple and efficient image compression tool built with React and Vite. This application allows users to reduce image file sizes directly in the browser, making it easier to upload images to websites with file size restrictions.
 
 ## Features
 
-* Compress PDF files quickly
-* Preview original and compressed file sizes
-* Download the compressed PDF
+* Compress images quickly while maintaining good visual quality
+* Preview original and compressed image sizes
+* Download the compressed image instantly
 * Responsive and clean user interface
-* No server required – processing happens entirely in the browser
+* No server required – all processing happens in the browser
 * Deployed for free on Vercel
 
 ## Built For Digital Heroes
 
 This project was created as part of the **Digital Heroes Custom Software Developer Trial Task**.
 
-The objective of the assessment was to build and deploy a useful online tool using free resources while following all the provided requirements. I chose to create a PDF compression tool because reducing document sizes before uploading them to portals, job applications, and other online services is something I have personally needed multiple times.
+The objective of the assessment was to build and deploy a useful online tool using free resources while following all the provided requirements. I chose to create an image compression tool because I have often needed to reduce the size of photos and screenshots before uploading them to websites with file size limits.
 
 ## Technologies Used
 
@@ -23,6 +23,7 @@ The objective of the assessment was to build and deploy a useful online tool usi
 * Vite
 * Tailwind CSS
 * JavaScript
+* Browser Image Compression
 * Vercel
 
 ## Live Demo
@@ -37,7 +38,7 @@ https://github.com/adityasharmagit/ImagePress
 
 **Aditya Prasad Sharma**
 
-Email: [as0257233@gmail.com](mailto:your-as0257233@gmail.com)
+Email: [as0257233@gmail.com](mailto:as0257233@gmail.com)
 
 ## License
 
