@@ -27,7 +27,7 @@ The objective of the assessment was to build and deploy a useful online tool usi
 
 ## Live Demo
 
-https://your-project.vercel.app
+https://image-press-taupe.vercel.app/
 
 ## GitHub Repository
 
